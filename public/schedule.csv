@@ -1,0 +1,68 @@
+﻿slot,strong_team_name,weak_team_name,strong_team,weak_team,strong_team_espn,weak_team_espn,strong_score,weak_score,status
+R1W1,Villanova,Mt St Mary's,1437,1291,222,116,76,56,Final
+R1W2,Duke,Troy,1181,1407,150,2653,87,65,Final
+R1W3,Baylor,New Mexico St,1124,1308,239,166,91,73,Final
+R1W4,Florida,ETSU,1196,1190,57,2193,80,65,Final
+R1W5,Virginia,UNC Wilmington,1438,1423,258,350,76,71,Final
+R1W6,SMU,USC,1374,1425,2567,30,65,66,Final
+R1W7,South Carolina,Marquette,1376,1266,2579,269,93,73,Final
+R1W8,Wisconsin,Virginia Tech,1458,1439,275,259,84,74,Final
+R1X1,Gonzaga,S Dakota St,1211,1355,2250,2571,66,46,Final
+R1X2,Arizona,North Dakota,1112,1315,12,155,100,82,Final
+R1X3,Florida St,FL Gulf Coast,1199,1195,52,526,86,80,Final
+R1X4,West Virginia,Bucknell,1452,1137,277,2083,86,80,Final
+R1X5,Notre Dame,Princeton,1323,1343,87,163,60,58,Final
+R1X6,Maryland,Xavier,1268,1462,120,2752,65,76,Final
+R1X7,St Mary's CA,VA Commonwealth,1388,1433,2608,2670,85,77,Final
+R1X8,Northwestern,Vanderbilt,1321,1435,77,238,68,66,Final
+R1Y1,Kansas,UC Davis,1242,1413,2305,302,100,62,Final
+R1Y2,Louisville,Jacksonville St,1257,1240,97,55,78,63,Final
+R1Y3,Oregon,Iona,1332,1233,2483,314,93,77,Final
+R1Y4,Purdue,Vermont,1345,1436,2509,261,80,70,Final
+R1Y5,Iowa St,Nevada,1235,1305,66,2440,84,73,Final
+R1Y6,Creighton,Rhode Island,1166,1348,156,227,72,84,Final
+R1Y7,Michigan,Oklahoma St,1276,1329,130,197,92,91,Final
+R1Y8,Miami FL,Michigan St,1274,1277,2390,127,58,78,Final
+R1Z1,North Carolina,TX Southern,1314,1411,153,2640,103,64,Final
+R1Z2,Kentucky,N Kentucky,1246,1297,96,94,79,70,Final
+R1Z3,UCLA,Kent,1417,1245,26,2309,97,80,Final
+R1Z4,Butler,Winthrop,1139,1457,2086,2737,76,64,Final
+R1Z5,Minnesota,MTSU,1278,1292,135,2393,72,81,Final
+R1Z6,Cincinnati,Kansas St,1153,1243,2132,2306,75,61,Final
+R1Z7,Dayton,Wichita St,1173,1455,2168,2724,58,64,Final
+R1Z8,Arkansas,Seton Hall,1116,1371,8,2550,77,71,Final
+R2W1,Villanova,Wisconsin,1437,1458,222,275,62,65,Final
+R2W2,Duke,South Carolina,1181,1376,150,2579,81,88,Final
+R2W3,Baylor,USC,1124,1425,239,30,82,78,Final
+R2W4,Florida,Virginia,1196,1438,57,258,65,39,Final
+R2X1,Gonzaga,Northwestern,1211,1321,2250,77,79,73,Final
+R2X2,Arizona,St Mary's CA,1112,1388,12,2608,69,60,Final
+R2X3,Florida St,Xavier,1199,1462,52,2752,66,91,Final
+R2X4,West Virginia,Notre Dame,1452,1323,277,87,83,71,Final
+R2Y1,Kansas,Michigan St,1242,1277,2305,127,90,70,Final
+R2Y2,Louisville,Michigan,1257,1276,97,130,69,73,Final
+R2Y3,Oregon,Rhode Island,1332,1348,2483,227,75,72,Final
+R2Y4,Purdue,Iowa St,1345,1235,2509,66,80,76,Final
+R2Z1,North Carolina,Arkansas,1314,1116,153,8,72,65,Final
+R2Z2,Kentucky,Wichita St,1246,1455,96,2724,65,62,Final
+R2Z3,UCLA,Cincinnati,1417,1153,26,2132,79,67,Final
+R2Z4,Butler,MTSU,1139,1292,2086,2393,74,65,Final
+R3W1,Wisconsin,Florida,1458,1196,275,57,83,84,Final
+R3W2,South Carolina,Baylor,1376,1124,2579,239,70,50,Final
+R3X1,Gonzaga,West Virginia,1211,1452,2250,277,61,58,Final
+R3X2,Arizona,Xavier,1112,1462,12,2752,71,73,Final
+R3Y1,Kansas,Purdue,1242,1345,2305,2509,98,66,Final
+R3Y2,Michigan,Oregon,1276,1332,130,2483,68,69,Final
+R3Z1,North Carolina,Butler,1314,1139,153,2086,92,80,Final
+R3Z2,Kentucky,UCLA,1246,1417,96,26,86,75,Final
+R4W1,Florida,South Carolina,1196,1376,57,2579,70,77,Final
+R4X1,Gonzaga,Xavier,1211,1462,2250,2752,83,59,Final
+R4Y1,Kansas,Oregon,1242,1332,2305,2483,60,74,Final
+R4Z1,North Carolina,Kentucky,1314,1246,153,96,75,73,Final
+R5WX,South Carolina,Gonzaga,1376,1211,2579,2250,0,0,Scheduled
+R5YZ,Oregon,North Carolina,1332,1314,2483,153,0,0,Scheduled
+R6CH,,,0,0,,,0,0,TBA
+W11,Providence,USC,1344,1425,2507,30,71,75,Final
+W16,Mt St Mary's,New Orleans,1291,1309,116,2443,67,66,Final
+Y16,NC Central,UC Davis,1300,1413,2428,302,63,67,Final
+Z11,Kansas St,Wake Forest,1243,1448,2306,154,95,88,Final
