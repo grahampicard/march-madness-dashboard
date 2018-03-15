@@ -41,12 +41,19 @@ class Table extends Component {
                       .moveToFront()
                       .transition()
                       .duration(400)
-                      .attr("stroke", "steelblue")
+                      .attr("stroke", () => (d.team === "Class Median") ? "#7c7c7c" : "steelblue" )
                       .attr("stroke-width", 10)
-                    
-                    d3.selectAll("." + d.team.split(' ').join('-'))
-                      .style("color", "steelblue")
-                      .style("font-weight", "bold")
+
+                      if (d.team === "Class Median") {
+                        d3.selectAll('.' + d.team.split(' ').join('-'))
+                        .style("color", "#7c7c7c")
+                        .style("font-weight", "bold")
+                      } else {
+                        d3.selectAll("." + d.team.split(' ').join('-'))
+                        .style("color", "steelblue")
+                        .style("font-weight", "bold")
+                      }                                
+
                     
                     return
                     }}
@@ -78,12 +85,7 @@ class Mainpage extends Component {
     this.createLogloss = this.createLogloss.bind(this)
   }
 
-  componentWillMount() {
-    console.log("cwm")
-  }
-
   componentDidMount() {
-    console.log("cdm")
     this.createLogloss()
   }
 
@@ -134,17 +136,14 @@ class Mainpage extends Component {
       function(datum) {
         if (datum !== "date") {
           let line = d3.line()
-                   .x(function(d) { 
-                     console.log(d)
-                     return x(d.date)})
-                   .y(function(d) { return y(d[datum])})
+            .x(function(d) { return x(d.date) })
+            .y(function(d) { return y(d[datum]) })
           
-          console.log("firing")
           g.append("path")
            .datum(LoglossData)
            .attr("class", datum.split(' ').join('-'))
            .attr("fill", "none")
-           .attr("stroke", "#70d8b2")
+           .attr("stroke", () => (datum === "Class Median") ? "#898989" : "#70d8b2")
            .attr("stroke-linejoin", "round")
            .attr("stroke-linecap", "round")
            .attr("stroke-width", 5)
@@ -154,12 +153,17 @@ class Mainpage extends Component {
                .moveToFront()
                .transition()
                .duration(400)
-               .attr("stroke", "steelblue")
+               .attr("stroke", () => (datum === "Class Median") ? "#7c7c7c" : "steelblue")
                .attr("stroke-width", 10)
-            
-             d3.selectAll('.' + datum.split(' ').join('-'))
-               .style("color", "steelblue")
-               .style("font-weight", "bold")
+            if (datum === "Class Median") {
+              d3.selectAll('.' + datum.split(' ').join('-'))
+              .style("color", "#7c7c7c")
+              .style("font-weight", "bold")
+            } else {
+              d3.selectAll('.' + datum.split(' ').join('-'))
+              .style("color", "steelblue")
+              .style("font-weight", "bold")
+            }
            })
            .on('mouseleave', function() {
               d3.selectAll("." + datum.split(' ').join('-'))

@@ -15,8 +15,8 @@ class Scorepage extends Component {
     this.createHist = this.createHist.bind(this)
     this.createLegend = this.createLegend.bind(this)
   }
-
-  componentDidMount() {
+  
+  componentWillMount() {
     this.setState({
       victor:
         (this.props.game.strong_score > this.props.game.weak_score) 
@@ -32,6 +32,10 @@ class Scorepage extends Component {
             "victor": "loser") : 
           "pending",
     })
+  }
+
+
+  componentDidMount() {
     if (this.props.game.status === "Final") {
       this.createHist()
       this.createLegend()  
@@ -42,7 +46,25 @@ class Scorepage extends Component {
     d3.selectAll("g").remove()
     d3.selectAll(".bar-labels").remove()
     
+    this.state = {
+      victor:
+          (this.props.game.strong_score > this.props.game.weak_score) 
+            ? true : false,
+        underdogStatus: 
+          (this.props.game.status === "Final") ? 
+            ((this.props.game.strong_score > this.props.game.weak_score) ? 
+              "loser": "victor") : 
+            "pending",
+        favoriteStatus:
+          (this.props.game.status === "Final") ? 
+            ((this.props.game.strong_score > this.props.game.weak_score) ? 
+              "victor": "loser") : 
+            "pending",
+    }
+    
     if (this.props.game.status === "Final") {
+      console.log(this.props.game)
+      
       this.createHist()
       this.createLegend()  
     }
@@ -253,7 +275,11 @@ class Scorepage extends Component {
             { this.props.game.weak_score } - { this.props.game.strong_score }
           </h1>
         </div>
-        <div className="score-histogram">
+        <div 
+          className="score-histogram" 
+          style={(this.props.game.status === "Final") ?
+            {display: "inherit"} : {display: "none"}}
+        >
           <h2>Prediction Distribution</h2>
           <h3>Hover to see teams</h3>
           <svg className="legend" height="25" width="275"></svg>
@@ -266,4 +292,3 @@ class Scorepage extends Component {
 }
 
 export default Scorepage
-

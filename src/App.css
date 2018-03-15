@@ -64,7 +64,10 @@
 .logloss table {
   grid-column: 1/2;
   border-collapse: collapse;
-  margin: auto;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
   border-spacing: 0px;
   width: 300px;
 }
@@ -92,6 +95,9 @@
   margin-top: 0px;
   margin-bottom: 20px;
   margin-right: 0px;
+}
+.legend {
+  margin: auto;
 }
 /*
 @media screen and (max-width: 1023px) { 

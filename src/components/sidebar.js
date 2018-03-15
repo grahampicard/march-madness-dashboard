@@ -18,8 +18,8 @@ class Date extends Component {
           { this.props.data.games.map((game) =>
             <li key={ game.slot }>
               <NavLink to={ String.prototype.concat("/",game.slot) }>
-                { game.strong_team_name + " (X) vs. " + 
-                  game.weak_team_name + " (Y)" }
+                { game.strong_team_name + " (" + game.strongseed + ") vs. " + 
+                  game.weak_team_name + " (" + game.weakseed + ")" }
               </NavLink>
             </li>
           )}
