@@ -1,0 +1,3216 @@
+{
+    "R1W1": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.9798,
+            "slot": "R1W1"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.99999,
+            "slot": "R1W1"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.990139,
+            "slot": "R1W1"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.974,
+            "slot": "R1W1"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.79,
+            "slot": "R1W1"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.998599,
+            "slot": "R1W1"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.918886,
+            "slot": "R1W1"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.943086,
+            "slot": "R1W1"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.7438,
+            "slot": "R1W1"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.969567,
+            "slot": "R1W1"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.996,
+            "slot": "R1W1"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.925327,
+            "slot": "R1W1"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.586343,
+            "slot": "R1W1"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.987698,
+            "slot": "R1W1"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.558,
+            "slot": "R1W1"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.991816,
+            "slot": "R1W1"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.038295,
+            "slot": "R1W1"
+        }
+    ],
+    "R1W2": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R1W2"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.960502,
+            "slot": "R1W2"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.80309,
+            "slot": "R1W2"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.807562,
+            "slot": "R1W2"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.854,
+            "slot": "R1W2"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.599,
+            "slot": "R1W2"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.996716,
+            "slot": "R1W2"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.728886,
+            "slot": "R1W2"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.924234,
+            "slot": "R1W2"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.8682,
+            "slot": "R1W2"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.933124,
+            "slot": "R1W2"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.969,
+            "slot": "R1W2"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.894885,
+            "slot": "R1W2"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.645956,
+            "slot": "R1W2"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.954288,
+            "slot": "R1W2"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.458,
+            "slot": "R1W2"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.958354,
+            "slot": "R1W2"
+        }
+    ],
+    "R1W3": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R1W3"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.873861,
+            "slot": "R1W3"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.53307,
+            "slot": "R1W3"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.80803,
+            "slot": "R1W3"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.801,
+            "slot": "R1W3"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.625,
+            "slot": "R1W3"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.905367,
+            "slot": "R1W3"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.707641,
+            "slot": "R1W3"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.904489,
+            "slot": "R1W3"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.8288,
+            "slot": "R1W3"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.799996,
+            "slot": "R1W3"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.937,
+            "slot": "R1W3"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.680049,
+            "slot": "R1W3"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.886719,
+            "slot": "R1W3"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.903485,
+            "slot": "R1W3"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.579,
+            "slot": "R1W3"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.903361,
+            "slot": "R1W3"
+        }
+    ],
+    "R1W4": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R1W4"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.63033,
+            "slot": "R1W4"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.8338,
+            "slot": "R1W4"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.563584,
+            "slot": "R1W4"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.58,
+            "slot": "R1W4"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 1.179,
+            "slot": "R1W4"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.890567,
+            "slot": "R1W4"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.65236,
+            "slot": "R1W4"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.833928,
+            "slot": "R1W4"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.7144,
+            "slot": "R1W4"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.793216,
+            "slot": "R1W4"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.912,
+            "slot": "R1W4"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.6874,
+            "slot": "R1W4"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.923359,
+            "slot": "R1W4"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.841766,
+            "slot": "R1W4"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.469,
+            "slot": "R1W4"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.879833,
+            "slot": "R1W4"
+        }
+    ],
+    "R1W5": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.688434,
+            "slot": "R1W5"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.48636,
+            "slot": "R1W5"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.915764,
+            "slot": "R1W5"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.743,
+            "slot": "R1W5"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.919,
+            "slot": "R1W5"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.864832,
+            "slot": "R1W5"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.608737,
+            "slot": "R1W5"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.78783,
+            "slot": "R1W5"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.5032,
+            "slot": "R1W5"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.789999,
+            "slot": "R1W5"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.892,
+            "slot": "R1W5"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.594026,
+            "slot": "R1W5"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.300587,
+            "slot": "R1W5"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.760312,
+            "slot": "R1W5"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.589,
+            "slot": "R1W5"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.807115,
+            "slot": "R1W5"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.038304,
+            "slot": "R1W5"
+        }
+    ],
+    "R1W6": [
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.55507,
+            "slot": "R1W6"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.162619,
+            "slot": "R1W6"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.137,
+            "slot": "R1W6"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.28,
+            "slot": "R1W6"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.348246,
+            "slot": "R1W6"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.28931,
+            "slot": "R1W6"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.228287,
+            "slot": "R1W6"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.3544,
+            "slot": "R1W6"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.172046,
+            "slot": "R1W6"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.117,
+            "slot": "R1W6"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.294722,
+            "slot": "R1W6"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.357404,
+            "slot": "R1W6"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.151564,
+            "slot": "R1W6"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.486,
+            "slot": "R1W6"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.167566,
+            "slot": "R1W6"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.038643,
+            "slot": "R1W6"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.319863,
+            "slot": "R1W6"
+        }
+    ],
+    "R1W7": [
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.42302,
+            "slot": "R1W7"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.737255,
+            "slot": "R1W7"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.663,
+            "slot": "R1W7"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.581,
+            "slot": "R1W7"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.50514,
+            "slot": "R1W7"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.39244,
+            "slot": "R1W7"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.540222,
+            "slot": "R1W7"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.447,
+            "slot": "R1W7"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.473885,
+            "slot": "R1W7"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.411,
+            "slot": "R1W7"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.615412,
+            "slot": "R1W7"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.397017,
+            "slot": "R1W7"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.653889,
+            "slot": "R1W7"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.507,
+            "slot": "R1W7"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.583436,
+            "slot": "R1W7"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.9614824,
+            "slot": "R1W7"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.613422,
+            "slot": "R1W7"
+        }
+    ],
+    "R1W8": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.472373,
+            "slot": "R1W8"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.595726,
+            "slot": "R1W8"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.41089,
+            "slot": "R1W8"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.454298,
+            "slot": "R1W8"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.651,
+            "slot": "R1W8"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.54,
+            "slot": "R1W8"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.70934,
+            "slot": "R1W8"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.579376,
+            "slot": "R1W8"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.750569,
+            "slot": "R1W8"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.4566,
+            "slot": "R1W8"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.689202,
+            "slot": "R1W8"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.736,
+            "slot": "R1W8"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.607999,
+            "slot": "R1W8"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.721335,
+            "slot": "R1W8"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.621463,
+            "slot": "R1W8"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.549,
+            "slot": "R1W8"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.777339,
+            "slot": "R1W8"
+        }
+    ],
+    "R1X1": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R1X1"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.948473,
+            "slot": "R1X1"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 1,
+            "slot": "R1X1"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.864479,
+            "slot": "R1X1"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.964,
+            "slot": "R1X1"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.602,
+            "slot": "R1X1"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.962365,
+            "slot": "R1X1"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.978442,
+            "slot": "R1X1"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.953998,
+            "slot": "R1X1"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.8284,
+            "slot": "R1X1"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.971754,
+            "slot": "R1X1"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.995,
+            "slot": "R1X1"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.896552,
+            "slot": "R1X1"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.950896,
+            "slot": "R1X1"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.984189,
+            "slot": "R1X1"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.472,
+            "slot": "R1X1"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.985243,
+            "slot": "R1X1"
+        }
+    ],
+    "R1X2": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R1X2"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.903901,
+            "slot": "R1X2"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.86452,
+            "slot": "R1X2"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.93562,
+            "slot": "R1X2"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.95,
+            "slot": "R1X2"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.727,
+            "slot": "R1X2"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.8404,
+            "slot": "R1X2"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.936179,
+            "slot": "R1X2"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.8656,
+            "slot": "R1X2"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.915131,
+            "slot": "R1X2"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.972,
+            "slot": "R1X2"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.901456,
+            "slot": "R1X2"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.93597,
+            "slot": "R1X2"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.956903,
+            "slot": "R1X2"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.463,
+            "slot": "R1X2"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.952434,
+            "slot": "R1X2"
+        }
+    ],
+    "R1X3": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R1X3"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.846917,
+            "slot": "R1X3"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.70772,
+            "slot": "R1X3"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.809625,
+            "slot": "R1X3"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.84,
+            "slot": "R1X3"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.847,
+            "slot": "R1X3"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.935989,
+            "slot": "R1X3"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.684192,
+            "slot": "R1X3"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.900526,
+            "slot": "R1X3"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.8322,
+            "slot": "R1X3"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.788292,
+            "slot": "R1X3"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.935,
+            "slot": "R1X3"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.757767,
+            "slot": "R1X3"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.916327,
+            "slot": "R1X3"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.864044,
+            "slot": "R1X3"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.494,
+            "slot": "R1X3"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.901186,
+            "slot": "R1X3"
+        }
+    ],
+    "R1X4": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R1X4"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.823369,
+            "slot": "R1X4"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.70941,
+            "slot": "R1X4"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.857426,
+            "slot": "R1X4"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.812,
+            "slot": "R1X4"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 1.173,
+            "slot": "R1X4"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.948086,
+            "slot": "R1X4"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.698124,
+            "slot": "R1X4"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.884191,
+            "slot": "R1X4"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.7774,
+            "slot": "R1X4"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.827206,
+            "slot": "R1X4"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.942,
+            "slot": "R1X4"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.634024,
+            "slot": "R1X4"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.728415,
+            "slot": "R1X4"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.890072,
+            "slot": "R1X4"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.468,
+            "slot": "R1X4"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.936744,
+            "slot": "R1X4"
+        }
+    ],
+    "R1X5": [
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.81237,
+            "slot": "R1X5"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.53275,
+            "slot": "R1X5"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.777,
+            "slot": "R1X5"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.976,
+            "slot": "R1X5"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.783701,
+            "slot": "R1X5"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.536619,
+            "slot": "R1X5"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.693874,
+            "slot": "R1X5"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.6904,
+            "slot": "R1X5"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.624078,
+            "slot": "R1X5"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.789,
+            "slot": "R1X5"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.595891,
+            "slot": "R1X5"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.825777,
+            "slot": "R1X5"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.855349,
+            "slot": "R1X5"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.468,
+            "slot": "R1X5"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.759544,
+            "slot": "R1X5"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.272105,
+            "slot": "R1X5"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.9546325,
+            "slot": "R1X5"
+        }
+    ],
+    "R1X6": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.499312,
+            "slot": "R1X6"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.54491,
+            "slot": "R1X6"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.718964,
+            "slot": "R1X6"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.269,
+            "slot": "R1X6"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": -0.15,
+            "slot": "R1X6"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.526448,
+            "slot": "R1X6"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.620763,
+            "slot": "R1X6"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.581556,
+            "slot": "R1X6"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.488,
+            "slot": "R1X6"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.361157,
+            "slot": "R1X6"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.56,
+            "slot": "R1X6"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.424686,
+            "slot": "R1X6"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.392904,
+            "slot": "R1X6"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.638202,
+            "slot": "R1X6"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.387,
+            "slot": "R1X6"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.505566,
+            "slot": "R1X6"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.9548573,
+            "slot": "R1X6"
+        }
+    ],
+    "R1X7": [
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.38907,
+            "slot": "R1X7"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.375868,
+            "slot": "R1X7"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.509,
+            "slot": "R1X7"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.774,
+            "slot": "R1X7"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.67967,
+            "slot": "R1X7"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.663401,
+            "slot": "R1X7"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.60738,
+            "slot": "R1X7"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.529,
+            "slot": "R1X7"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.691803,
+            "slot": "R1X7"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.839,
+            "slot": "R1X7"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.53638,
+            "slot": "R1X7"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.661952,
+            "slot": "R1X7"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.776161,
+            "slot": "R1X7"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.636,
+            "slot": "R1X7"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.761368,
+            "slot": "R1X7"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.040531,
+            "slot": "R1X7"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.211132,
+            "slot": "R1X7"
+        }
+    ],
+    "R1X8": [
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.49711,
+            "slot": "R1X8"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.434261,
+            "slot": "R1X8"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.625,
+            "slot": "R1X8"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.729,
+            "slot": "R1X8"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.498053,
+            "slot": "R1X8"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.337294,
+            "slot": "R1X8"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.41909,
+            "slot": "R1X8"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.4676,
+            "slot": "R1X8"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.486148,
+            "slot": "R1X8"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.439,
+            "slot": "R1X8"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.479942,
+            "slot": "R1X8"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.519276,
+            "slot": "R1X8"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.447575,
+            "slot": "R1X8"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.597,
+            "slot": "R1X8"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.51462,
+            "slot": "R1X8"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.041439,
+            "slot": "R1X8"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.482889,
+            "slot": "R1X8"
+        }
+    ],
+    "R1Y1": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.972632,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 1,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.885328,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.928,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.542,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.965957,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.871992,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.954248,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.801,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.97151,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.992,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.914913,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.317188,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.968264,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.431,
+            "slot": "R1Y1"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.986506,
+            "slot": "R1Y1"
+        }
+    ],
+    "R1Y2": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.955449,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.8357,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.937111,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.892,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 1.261,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.97907,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.734261,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.949522,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.8702,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.942424,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.982,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.872178,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.949218,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.973696,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.485,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.977277,
+            "slot": "R1Y2"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.038295,
+            "slot": "R1Y2"
+        }
+    ],
+    "R1Y3": [
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.6788,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.902388,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.931,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 1.193,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.959504,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.788904,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.941142,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.759,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.832406,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.952,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.849245,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.910182,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.952768,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.362,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.945188,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.043032,
+            "slot": "R1Y3"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.229689,
+            "slot": "R1Y3"
+        }
+    ],
+    "R1Y4": [
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.70463,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.827152,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.664,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.617,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.873504,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.64175,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.744774,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.6356,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.587377,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.869,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.633068,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.851032,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.754943,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.502,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.824723,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.541495,
+            "slot": "R1Y4"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.242049,
+            "slot": "R1Y4"
+        }
+    ],
+    "R1Y5": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961697,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.659235,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.70908,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.564374,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.648,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.418,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.774747,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.53259,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.810788,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.5984,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.787332,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.817,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.485956,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.890928,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.784322,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.475,
+            "slot": "R1Y5"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.793649,
+            "slot": "R1Y5"
+        }
+    ],
+    "R1Y6": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.038345,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.451663,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.24491,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.265828,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.391,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": -0.064,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.348526,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.542196,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.475625,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.5122,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.509189,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.363,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.531128,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.149418,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.33197,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.52,
+            "slot": "R1Y6"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.414841,
+            "slot": "R1Y6"
+        }
+    ],
+    "R1Y7": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.648868,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.62474,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.289526,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.591,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.568,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.514585,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.353755,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.431482,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.4716,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.587932,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.5,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.527431,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.881906,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.3769,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.601,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.496967,
+            "slot": "R1Y7"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.218116,
+            "slot": "R1Y7"
+        }
+    ],
+    "R1Y8": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.598457,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.53161,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.48554,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.476,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": -0.23,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.447299,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.619331,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.498542,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.5154,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.35011,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.452,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.513229,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.276411,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.29085,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.406,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.394683,
+            "slot": "R1Y8"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.9635665,
+            "slot": "R1Y8"
+        }
+    ],
+    "R1Z1": [
+        {
+            "team": "Black_Mamba",
+            "prob_final": 1,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.981099,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.956,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 1.126,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.958158,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.791628,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.928877,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.8448,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.957773,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.993,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.875123,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.919581,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.967949,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.362,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.987811,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.042715,
+            "slot": "R1Z1"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.049555,
+            "slot": "R1Z1"
+        }
+    ],
+    "R1Z2": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.948865,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.82086,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.91753,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.911,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.461,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.988284,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.824271,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.923693,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.8708,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.941505,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.982,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.829807,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.954754,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.918797,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.408,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.966374,
+            "slot": "R1Z2"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.026746,
+            "slot": "R1Z2"
+        }
+    ],
+    "R1Z3": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.93123,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.60978,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.86152,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.906,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 1.223,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.961189,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.814262,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.912,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.6636,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.823907,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.964,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.878691,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.947291,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.897374,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.309,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.942149,
+            "slot": "R1Z3"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.329132,
+            "slot": "R1Z3"
+        }
+    ],
+    "R1Z4": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.73013,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.57873,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.733153,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.718,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.613,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.903006,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.652085,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.845409,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.6568,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.773558,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.921,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.741164,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.932505,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.79878,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.468,
+            "slot": "R1Z4"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.891349,
+            "slot": "R1Z4"
+        }
+    ],
+    "R1Z5": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.416421,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.4265,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.419898,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.349,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.323,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.367341,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.574518,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.426355,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.4828,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.459427,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.463,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.433794,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.816719,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.481709,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.507,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.495815,
+            "slot": "R1Z5"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.092552,
+            "slot": "R1Z5"
+        }
+    ],
+    "R1Z6": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961703,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.772725,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.43023,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.734405,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.847,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.866,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.651754,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.592422,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.689014,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.5144,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.763582,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.672,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.643113,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.107672,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.735494,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.609,
+            "slot": "R1Z6"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.704554,
+            "slot": "R1Z6"
+        }
+    ],
+    "R1Z7": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.044515,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.505549,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.61951,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.652069,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.415,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.26,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.722036,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.806233,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.768642,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.6118,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.727146,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.856,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.474538,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.600023,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.85762,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.541,
+            "slot": "R1Z7"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.802035,
+            "slot": "R1Z7"
+        }
+    ],
+    "R1Z8": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.725085,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.681777,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.74451,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.619818,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.758,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 1.185,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.539629,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.414937,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.549989,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.4864,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.59469,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.545,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.526801,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.527315,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.532227,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.539,
+            "slot": "R1Z8"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.563237,
+            "slot": "R1Z8"
+        }
+    ],
+    "R2W1": [
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.240521,
+            "slot": "R2W1"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.35453,
+            "slot": "R2W1"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.096692,
+            "slot": "R2W1"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.086,
+            "slot": "R2W1"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.34,
+            "slot": "R2W1"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.325769,
+            "slot": "R2W1"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.371251,
+            "slot": "R2W1"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.329959,
+            "slot": "R2W1"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.3298,
+            "slot": "R2W1"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.236355,
+            "slot": "R2W1"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.188,
+            "slot": "R2W1"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.212118,
+            "slot": "R2W1"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.039565,
+            "slot": "R2W1"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.198325,
+            "slot": "R2W1"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.401,
+            "slot": "R2W1"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.280059,
+            "slot": "R2W1"
+        },
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.038295,
+            "slot": "R2W1"
+        }
+    ],
+    "R2W2": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.038299,
+            "slot": "R2W2"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.072683,
+            "slot": "R2W2"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.29278,
+            "slot": "R2W2"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.580077,
+            "slot": "R2W2"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.297,
+            "slot": "R2W2"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.329,
+            "slot": "R2W2"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.269062,
+            "slot": "R2W2"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.478286,
+            "slot": "R2W2"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.366564,
+            "slot": "R2W2"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.3332,
+            "slot": "R2W2"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.173311,
+            "slot": "R2W2"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.199,
+            "slot": "R2W2"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.286531,
+            "slot": "R2W2"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.121667,
+            "slot": "R2W2"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.2299,
+            "slot": "R2W2"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.462,
+            "slot": "R2W2"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.320183,
+            "slot": "R2W2"
+        }
+    ],
+    "R2W3": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R2W3"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.707044,
+            "slot": "R2W3"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.47695,
+            "slot": "R2W3"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.665909,
+            "slot": "R2W3"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.738,
+            "slot": "R2W3"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.63,
+            "slot": "R2W3"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.68471,
+            "slot": "R2W3"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.650534,
+            "slot": "R2W3"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.802635,
+            "slot": "R2W3"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.6402,
+            "slot": "R2W3"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.781523,
+            "slot": "R2W3"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.875,
+            "slot": "R2W3"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.679556,
+            "slot": "R2W3"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.664,
+            "slot": "R2W3"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.87962,
+            "slot": "R2W3"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.543,
+            "slot": "R2W3"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.852982,
+            "slot": "R2W3"
+        }
+    ],
+    "R2W4": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.699664,
+            "slot": "R2W4"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.351542,
+            "slot": "R2W4"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.64123,
+            "slot": "R2W4"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.300824,
+            "slot": "R2W4"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.504,
+            "slot": "R2W4"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 1.242,
+            "slot": "R2W4"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.487611,
+            "slot": "R2W4"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.366978,
+            "slot": "R2W4"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.446992,
+            "slot": "R2W4"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.6076,
+            "slot": "R2W4"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.475912,
+            "slot": "R2W4"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.512,
+            "slot": "R2W4"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.531431,
+            "slot": "R2W4"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.695655,
+            "slot": "R2W4"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.61053,
+            "slot": "R2W4"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.671,
+            "slot": "R2W4"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.525906,
+            "slot": "R2W4"
+        }
+    ],
+    "R2X1": [
+        {
+            "team": "A_Cinderella_Story",
+            "prob_final": 0.961705,
+            "slot": "R2X1"
+        },
+        {
+            "team": "Beauties_and_the_Beast",
+            "prob_final": 0.844927,
+            "slot": "R2X1"
+        },
+        {
+            "team": "Black_Mamba",
+            "prob_final": 0.73612,
+            "slot": "R2X1"
+        },
+        {
+            "team": "Component",
+            "prob_final": 0.782086,
+            "slot": "R2X1"
+        },
+        {
+            "team": "FOURdham_Marchketeers",
+            "prob_final": 0.816,
+            "slot": "R2X1"
+        },
+        {
+            "team": "Gambler",
+            "prob_final": 0.683,
+            "slot": "R2X1"
+        },
+        {
+            "team": "InMotion",
+            "prob_final": 0.853116,
+            "slot": "R2X1"
+        },
+        {
+            "team": "mercury",
+            "prob_final": 0.874878,
+            "slot": "R2X1"
+        },
+        {
+            "team": "Never_Blow_3-1",
+            "prob_final": 0.863542,
+            "slot": "R2X1"
+        },
+        {
+            "team": "OneBillionDollars",
+            "prob_final": 0.7152,
+            "slot": "R2X1"
+        },
+        {
+            "team": "pilarz",
+            "prob_final": 0.897336,
+            "slot": "R2X1"
+        },
+        {
+            "team": "SuperDC",
+            "prob_final": 0.946,
+            "slot": "R2X1"
+        },
+        {
+            "team": "team_18",
+            "prob_final": 0.715748,
+            "slot": "R2X1"
+        },
+        {
+            "team": "team_Four-point shot",
+            "prob_final": 0.949575,
+            "slot": "R2X1"
+        },
+        {
+            "team": "Team_Rams",
+            "prob_final": 0.93328,
+            "slot": "R2X1"
+        },
+        {
+            "team": "Team_RNG",
+            "prob_final": 0.502,
+            "slot": "R2X1"
+        },
+        {
+            "team": "Team_Slam_Dunk",
+            "prob_final": 0.897123,
+            "slot": "R2X1"
+        }
+    ]
+}

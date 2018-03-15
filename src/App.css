@@ -3,7 +3,6 @@
 .App {
   text-align: center;
 }
-
 .App-title-screen {
   display: none;
 }
@@ -12,10 +11,11 @@
   height: 80px;
 }
 .top-bar {
-  margin: auto;
-  background-color: #900028;
-  color: #dee0df;
-  height: 60px;
+  background-color: white;
+  border-bottom: 1px solid #efefef;
+  box-sizing: border-box;
+  color: #900028;
+  height: 77px;
   display: flex;
   flex-direction: column;
   position: fixed;
@@ -23,46 +23,85 @@
   top: 0;
   font-family: Nunito, sans-serif;
 }
+.top-bar h1 {
+  margin-left: 25px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
 .main {
-  margin-top: 120px;
+  display: grid;
+  grid-template-columns: repeat(4, 350px);
+  grid-template-rows: repeat(1, 1fr);  
+  grid-gap: 50px;
 }
-
-.bm-burger-button {
-  position: fixed;
-  width: 36px;
-  height: 36px;
-  left: 12px;
-  top: 12px;
+.side-bar {
+  margin-top: 75px;
+  width: 350px;
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
 }
-.bm-burger-bars {
-  background: #dee0df;
+.content {
+  margin-top: 150px;
+  grid-column: 2 / 5;
+  grid-row: 1 / 2;
+  width: 1100px;
 }
-.bm-cross-button {
-  height: 24px;
-  width: 24px;
+.heading {
+  margin-bottom: 80px;
+  margin-left: auto;
+  margin-right: auto;
 }
-.bm-cross {
-  background: #838383;
+.logloss {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 30px;
+  margin: auto;
 }
-.bm-menu {
-  background: #dee0df;
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
-  padding-right: 2.5rem;
-  font-size: 1.15em;
+.logloss svg {
+  margin-top: 40px;
+  cursor: crosshair;
 }
-.bm-morph-shape {
-  fill: #373a47;
+.logloss table {
+  grid-column: 1/2;
+  border-collapse: collapse;
+  margin: auto;
+  border-spacing: 0px;
+  width: 300px;
 }
-.bm-item-list a {
-  color: #585858;
-  text-decoration: none;
+.logloss table td {
+  height: 25px;
+  border: 1px solid #cdcdcd;
+  border-right: none;
+  cursor: crosshair;
 }
-.bm-overlay {
-  background: rgba(0, 0, 0, 0.3);
+.logloss table td:first-child {
+  width: 250px;
 }
-
+.logloss tr:nth-child(even) {
+  background-color: #e7e7e7;
+}
+.logloss td + td {
+  border-left: none;
+  border-right: 1px solid #cdcdcd;
+}
+.logloss .graph {
+  grid-column: 2/3;
+  margin: auto;
+}
+.logloss .graph h3 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  margin-right: 0px;
+}
+/*
 @media screen and (max-width: 1023px) { 
+  .side-bar {
+    display: none;
+  }
+  .main {
+    display: flex;
+    width: 100%;
+  }
   .App-title {
     display: none;
   }
@@ -70,45 +109,74 @@
     display: inline;
     width: 50%;
   }
+  .bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 36px;
+    left: 12px;
+    top: 12px;
+  }
+  .bm-burger-bars {
+    background: #dee0df;
+  }
+  .bm-cross-button {
+    height: 24px;
+    width: 24px;
+  }
+  .bm-cross {
+    background: #838383;
+  }
+  .bm-menu {
+    background: #dee0df;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    padding-right: 2.5rem;
+    font-size: 1.15em;
+  }
+  .bm-morph-shape {
+    fill: #373a47;
+  }
+  .bm-item-list a {
+    color: #585858;
+    text-decoration: none;
+  }
+  .bm-overlay {
+    background: rgba(0, 0, 0, 0.3);
+  }
 }
+*/
 
-/**
+/*
 Top-bar Navigaion CSS
  */
 .nav {
   margin-left: 2rem;
 }
-
 .nav ul {
   list-style: none;
   text-align: left;
 }
-
 .nav a, .nav label {
   display: block;
-  padding-top: .85rem;
-  padding-bottom: .85rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
   -webkit-transition: all .25s ease-in;
   transition: all .25s ease-in;
-  color: #585858
+  color: #585858;
+  text-decoration: none;
 }
-
 .nav label { 
   cursor: pointer; 
 }
-
 .group-list a:focus, .group-list a:hover, .group-list label:focus, .group-list label:hover {
   color: rgba(88, 88, 88, 0.5);
 }
-
 .nav a:focus, .nav a:hover, .nav label:focus, .nav label:hover {
   color: rgba(88, 88, 88, 0.5);
 }
-
 .sub-group-list a:focus, .sub-group-list a:hover, .sub-group-list label:focus, .sub-group-list label:hover {
   color: rgba(88, 88, 88, 0.5);
 }
-
 .group-list, .sub-group-list, .sub-sub-group-list {
   height: 100%;
   max-height: 0;
@@ -116,7 +184,6 @@ Top-bar Navigaion CSS
   -webkit-transition: max-height .5s ease-in-out;
   transition: max-height .5s ease-in-out;
 }
-
 .nav__list {
   padding:0;
 }
@@ -140,6 +207,10 @@ label > span {
 .d3vis {
   width:500px;
   height:500px;
+}
+
+.bm-menu-wrap {
+  width: 400px !important;
 }
 
 /*
@@ -187,7 +258,7 @@ Score-Page CSS
   grid-column: 1 / 5;
   grid-row: 2 / 4;
   margin: auto;
-  height: auto;
+  display: inline;
 }
 
 .victor {
@@ -197,4 +268,39 @@ Score-Page CSS
 
 .loser {
   padding:5px;
+}
+
+.logloss-graph {
+  margin-left: 40px;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 10px;
+  font: 14px sans-serif;
+  background: white;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+.axis {
+  stroke: #585858;
+  stroke-width: .01em;
+}
+.axis text {
+    fill: #585858;
+}
+.axis-histogram {
+  stroke: #585858;
+  stroke-width: .01em;  
+}
+.axis-histogram text{
+  fill: #585858;
+  font-size:12pt
+}
+.score-histogram h3 {
+  font-weight: 100;
 }
