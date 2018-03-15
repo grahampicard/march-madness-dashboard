@@ -53,7 +53,8 @@ class App extends Component {
                       <Scorepage
                         game={ matchgame } 
                         correct_color="#90c2e7"
-                        incorrect_color="#c9c9c9"
+                        incorrect_color="#a092af"
+                        pending_color="#c9c9c9"
                       />
                     </div>
                   )

@@ -17,26 +17,29 @@ class Scorepage extends Component {
   }
   
   componentWillMount() {
-    this.setState({
+    this.state = {
       victor:
-        (this.props.game.strong_score > this.props.game.weak_score) 
-          ? true : false,
-      underdogStatus: 
-        (this.props.game.status === "Final") ? 
-          ((this.props.game.strong_score > this.props.game.weak_score) ? 
-            "loser": "victor") : 
-          "pending",
-      favoriteStatus:
-        (this.props.game.status === "Final") ? 
-          ((this.props.game.strong_score > this.props.game.weak_score) ? 
-            "victor": "loser") : 
-          "pending",
-    })
+          (this.props.game.strong_score > this.props.game.weak_score) 
+            ? true : false,
+        underdogStatus: 
+          (this.props.game.status === "Final") ? 
+            ((this.props.game.strong_score > this.props.game.weak_score) ? 
+              "loser": "victor") : 
+            "pending",
+        favoriteStatus:
+          (this.props.game.status === "Final") ? 
+            ((this.props.game.strong_score > this.props.game.weak_score) ? 
+              "victor": "loser") : 
+            "pending",
+    }
   }
 
 
   componentDidMount() {
-    if (this.props.game.status === "Final") {
+    console.log(this.props.game.slot)
+    console.log(histogramData)
+    console.log(histogramData[this.props.game.slot])
+    if (histogramData[this.props.game.slot] != undefined) {
       this.createHist()
       this.createLegend()  
     }
@@ -62,9 +65,7 @@ class Scorepage extends Component {
             "pending",
     }
     
-    if (this.props.game.status === "Final") {
-      console.log(this.props.game)
-      
+    if (histogramData[this.props.game.slot] != undefined) {
       this.createHist()
       this.createLegend()  
     }
@@ -73,12 +74,14 @@ class Scorepage extends Component {
   createHist() {
 
     var gameHist = histogramData[this.props.game.slot]
+    console.log("here!")
+    console.log(gameHist)
 
     // create local versions of state
     var victor = this.state.victor
-    var correct_color = this.props.correct_color
-    var incorrect_color = this.props.incorrect_color
-    
+    var correct_color = (this.props.game.status === "Final") ? this.props.correct_color : this.props.pending_color
+    var incorrect_color = (this.props.game.status === "Final") ? this.props.incorrect_color : this.props.pending_color
+
     // declare dimensions, connect to svg object, create dimensional variables, and add a "g" element
     var containerWidth = d3.select(".score-container")["_groups"][0][0].clientWidth
     var margin = {top: 70, right: 30, bottom: 30, left: 30}
@@ -197,13 +200,8 @@ class Scorepage extends Component {
   }
   
   createLegend() {
-    
-    // connect to svg object, create dimensional variables, and add a "g" element
-    var svg = d3.select(".legend")
-    
-    // take the g object, and select ".bar" css and append data
-
-    var data = [
+    // setup data
+    var data = (this.props.game.status === "Final") ? [
       {
         "label": "Incorrect",
         "color": this.props.incorrect_color
@@ -212,11 +210,22 @@ class Scorepage extends Component {
       "label": "Correct",
       "color": this.props.correct_color
       }
-    ]
+    ] : [
+      {
+        "label": "Pending",
+        "color": this.props.pending_color
+        }
+    ]    
     
+    // connect to svg object, create dimensional variables, and add a "g" element
+    var svg = d3.select(".legend")
+        svg.attr("width", data.length * 130)
+
+    // take the g object, and select ".bar" css and append data    
+  
     svg.selectAll("circle")
       .data(data)
-      .enter().append("circle")
+      .enter().append("g").append("circle")
       .attr("cy",12)
       .attr("cx", function(d, i) { return 150 * (i) + 30})
       .attr("r", 8)
@@ -224,7 +233,7 @@ class Scorepage extends Component {
       
     svg.selectAll("labels")
       .data(data)
-      .enter().append("text")
+      .enter().append("g").append("text")
       .attr("transform", function(d, i) {
         return "translate(" + (50 + 150 * (i)) + "," + 12 + ")"
       })
@@ -277,12 +286,17 @@ class Scorepage extends Component {
         </div>
         <div 
           className="score-histogram" 
-          style={(this.props.game.status === "Final") ?
+          style={(histogramData[this.props.game.slot] != undefined) ?
             {display: "inherit"} : {display: "none"}}
         >
           <h2>Prediction Distribution</h2>
           <h3>Hover to see teams</h3>
-          <svg className="legend" height="25" width="275"></svg>
+          <svg 
+            className="legend" 
+            height="25" 
+            width="275"
+          >
+          </svg>
           <svg className="prediction-chart" height="300"></svg>
           <h3>% Likilhood of {this.props.game.strong_team_name} Victory</h3>
         </div>
